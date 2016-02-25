@@ -1,6 +1,6 @@
 public class LoopForWithIfFive {
     public static void main(String[] arg) {
-        int count = 10;
+        int count = 11;
 
         // Внешний цикл
         for (int i = 0; i < count; i++) {
